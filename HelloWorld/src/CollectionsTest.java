@@ -16,7 +16,7 @@ public class CollectionsTest {
 		strings.add("Paul");
 		Collections.addAll(strings, "Mason", "Consulting"); // T could be array
 		System.out.println(strings);
-
+		// Test Comment
 		//CollectionUtils.addAll(Collection C , Enum / Iter / C[]);
 		
 		// binary search - needs to be sorted by asc order otherwise results are
